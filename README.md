@@ -16,7 +16,7 @@ npx create-react-app client
 
 # React dependencies - cd client
 
-npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment
+npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment uuid
 
 # Remove gitignore and readme from client folder and remove repository
 
