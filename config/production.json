@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://sasa123:sasa123@devconnector-zmcv3.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "20ee2430b5762e64015c",
+  "githubSecret": "56f80e204ca5b93185ae5496ffd1231d1cb6e09f"
+}
